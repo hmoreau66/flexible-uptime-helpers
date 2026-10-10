@@ -1,0 +1,17 @@
+{
+  "name": "uptime-duration-formatter",
+  "version": "0.1.0",
+  "description": "Formats a millisecond duration into human-readable uptime strings like '3d 4h 22m' with configurable unit thresholds.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
